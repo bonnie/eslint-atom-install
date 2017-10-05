@@ -43,10 +43,11 @@
 
 ## To see if eslint is working
 
-* Try to make eslint mad by opening a new file, saving it as test.js, and adding a line that has double-quotes, like:
+* Try to make eslint mad by following these steps:
 
-```
-const blah = "blah"
-```
+  * open a new file
+  * save it as test.js in a project that has had the eslint installed as described above
+  * add a line that has double-quotes, like: `const blah = "blah"`
+  * save the file
 
-* Do you get angry red squiggles and info when you mouse over or click on the text with the squiggles? If so, congratulations, eslint is installed!
+* Do you get angry red squiggles, and info when you mouse over or click on the text with the squiggles? If so, congratulations, eslint is installed!
