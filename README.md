@@ -46,8 +46,8 @@
 * Try to make eslint mad by following these steps:
 
   * open a new file
-  * save it as test.js in a project that has had the eslint installed as described above
+  * save it as with a .js extension, in a project that has eslint installed as described above
   * add a line that has double-quotes, like: `const blah = "blah"`
-  * save the file
+  * save the file again
 
 * Do you get angry red squiggles, and info when you mouse over or click on the text with the squiggles? If so, congratulations, eslint is installed!
