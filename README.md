@@ -16,11 +16,11 @@
 
 ### On your laptop
 
-* Create a .eslint file in your home directory (`~/.eslintrc`) with these contents:
+* Create a .eslintrc file in your home directory (`~/.eslintrc`) with these contents:
 
 ```
 {
-   "extends": "airbnb",
+   "extends": "airbnb"
 }
 ```
 
